@@ -1,2 +1,2 @@
 # React
- React during WebDev week v1 acdemy
+ React Projects and selenium testing
